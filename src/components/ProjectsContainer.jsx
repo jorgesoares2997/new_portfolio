@@ -1,12 +1,12 @@
 const ProjectsContainer = () => {
   return (
     <section className="projects-container">
-      <h2>Projetos</h2>
+      <h2>Projetos e Certificados</h2>
       <p>
-        Aqui você confere meus ultimos projetos, os que me dão mais orgulho.
+        Aqui você pode ver, além dos meus certificados, meus ultimos projetos, os que me dão mais orgulho.
       </p>
       <a href="https://jorgesoares2997.github.io/portfolio/portfolio.html" className="btn">
-        Ver Projetos
+        Projetos
       </a>
     </section>
   );
