@@ -3,12 +3,9 @@ const ProjectsContainer = () => {
     <section className="projects-container">
       <h2>Projetos</h2>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa
-        laboriosam voluptas iusto blanditiis ad nihil sint cumque, quos
-        perferendis vitae tempora nulla. Magnam, sunt quo deserunt fuga
-        doloremque minima eius!
+        Aqui você confere meus ultimos projetos, os que me dão mais orgulho.
       </p>
-      <a href="#" className="btn">
+      <a href="https://jorgesoares2997.github.io/portfolio/portfolio.html" className="btn">
         Ver Projetos
       </a>
     </section>
